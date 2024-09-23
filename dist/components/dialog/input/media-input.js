@@ -1,5 +1,5 @@
 import { BaseComponent } from "../../component.js";
-export class MediaInputDialog extends BaseComponent {
+export class MediaSectionInput extends BaseComponent {
     constructor() {
         super(`<div>
         <div class="form__container">
